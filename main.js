@@ -16,7 +16,7 @@ function check(){
 		correct++;
 	}
 	
-	var pictures = ["img/win.gif", "img/meh.jpeg", "img/lose.gif"];
+	var pictures = ["/Users/albertbrown/quizlet/img/I wish he would follow me around everywhere I went and would do this after every good comeback I come up with. - Imgur.gif", "/Users/albertbrown/quizlet/img/Our daughter is NOT OK with going back to school.... - Imgur.jpg", "/Users/albertbrown/quizlet/img/undefined - Imgur.gif"];
 	var messages = ["Great job!", "That's just okay", "You really need to do better"];
 	var score;
 
